@@ -42,3 +42,6 @@ After build execute this command to publish to surge
 surge
 
 ```
+
+## Static live
+This site has been publised to [http://vde-gatsby-site.surge.sh/](http://vde-gatsby-site.surge.sh/)
